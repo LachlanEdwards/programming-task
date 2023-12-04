@@ -1,0 +1,25 @@
+The top 3 most visited URLs:
+(#1) "/docs/manage-websites/" visited 2x.
+(#2) "/intranet-analytics/" visited 1x.
+     "http://example.net/faq/" visited 1x.
+     "/this/page/does/not/exist/" visited 1x.
+     "http://example.net/blog/category/meta/" visited 1x.
+     "/blog/2018/08/survey-your-opinion-matters/" visited 1x.
+     "/docs/manage-users/" visited 1x.
+     "/blog/category/community/" visited 1x.
+     "/faq/" visited 1x.
+     "/faq/how-to-install/" visited 1x.
+     "/asset.js" visited 1x.
+     "/to-an-error" visited 1x.
+     "/" visited 1x.
+     "/docs/" visited 1x.
+     "/moved-permanently" visited 1x.
+     "/temp-redirect" visited 1x.
+     "/faq/how-to/" visited 1x.
+     "/translations/" visited 1x.
+     "/newsletter/" visited 1x.
+     "/hosting/" visited 1x.
+     "/download/counter/" visited 1x.
+     "/asset.css" visited 1x.
+
+

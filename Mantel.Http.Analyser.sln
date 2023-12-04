@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Http.Analyser", "Mantel.Http.Analyser\Mantel.Http.Analyser.csproj", "{1972D765-40F6-474D-9E53-8477CACBEA51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mantel.Http.Analyser.UnitTests", "Mantel.Http.Analyser.UnitTests\Mantel.Http.Analyser.UnitTests.csproj", "{5F2E3644-1BD7-4A2D-8950-C7057E963EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1972D765-40F6-474D-9E53-8477CACBEA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1972D765-40F6-474D-9E53-8477CACBEA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1972D765-40F6-474D-9E53-8477CACBEA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1972D765-40F6-474D-9E53-8477CACBEA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2E3644-1BD7-4A2D-8950-C7057E963EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2E3644-1BD7-4A2D-8950-C7057E963EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2E3644-1BD7-4A2D-8950-C7057E963EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2E3644-1BD7-4A2D-8950-C7057E963EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
